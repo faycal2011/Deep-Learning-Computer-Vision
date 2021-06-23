@@ -1,7 +1,7 @@
-# Deep-Learning-Computer-Vision
+Deep-Learning-Computer-Vision
 	Dans le cadre de la compétition Kaggle Plant Pathology 2021 et surtout pour un projet Computer Vision dans le cadre du master M2 IASD de l’université PSL Paris Dauphine, j’ai développé les notebooks ci-joints, décrits ci-dessous, basés sur du tranfer learning à partir de TensorFlow/Keras applications et Pytorch/FastAI:
-# Partie 1 : TensorFlow/ Keras
-#ColabPlantPatho2021_MobileNetV2_DataSet.ipynb                     
+Partie 1 : TensorFlow/ Keras
+ColabPlantPatho2021_MobileNetV2_DataSet.ipynb                     
 Utilisation du modèle MobileNetV2 , utilisant des Datasets, sur Colab
 ColabPlantPatho2021_MobileNetV2_DataSet_kfold3.ipynb              
 Utilisation du modèle MobileNetV2 , utilisant des Datasets et une cross validation (3folds), sur Colab
